@@ -48,7 +48,6 @@ Using the power budget equation and the parameters below, determine the attenuat
 - Visualizer components are included to obtain necessary simulation data.  
 
 ---
-
 ## Simulation
 1. Run the simulation and record:
    - **Optical power levels (dBm):**
@@ -62,23 +61,14 @@ Using the power budget equation and the parameters below, determine the attenuat
 2. Set the fiber length to **125% of the calculated pre-lab value** and repeat the simulation and data recording.  
 
 ---
-
 ## Analysis and Report
 Compare simulation results with pre-lab calculations and record observations.  
 
-Your report should contain:
-- **Cover Page**
-  - Title of the lab  
-  - Course name and number  
-  - Your name  
-
 - **Pre-lab Calculations**  
+<img width="944" height="1280" alt="image" src="https://github.com/user-attachments/assets/33dc1028-7200-4002-9f1a-4f93bd68bde8" />
 
-- **Screenshots** of layout and results (including eye diagrams)  
+- **Screenshots**
+   <img width="951" height="717" alt="image" src="https://github.com/user-attachments/assets/1474014f-6e8d-4ec9-9e48-9d451ac8fbde" />
 
-- **Summary Table** for each simulation:
-  | Fiber Length (km) | Received Power (dBm) | Q Factor | BER |
-  |-------------------|-----------------------|----------|-----|
-  
-
-- **Written Summary** of observations and explanations of differences.  
+## Result 
+Thus the Experiment was succesfully completed and output is verified.
